@@ -31,6 +31,6 @@ import androidx.compose.ui.unit.dp
                 .fillMaxWidth()
                 .padding(16.dp)
         ) {
-            Text(text = "Click me")
+            Text(text = "Click to button")
         }
     }
