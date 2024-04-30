@@ -51,9 +51,9 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
 
-                groupId = 'com.github.philipplackner'
+                groupId = 'com.github.DANILOCAPIRO'
                 artifactId = 'image-preview-compose'
-                version = '1.0'
+                version = '1.1'
             }
         }
     }
